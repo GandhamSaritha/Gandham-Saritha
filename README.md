@@ -84,13 +84,12 @@ To begin my professional career as a Java Full Stack Developer, apply my technic
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GandhamSaritha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GandhamSaritha&layout=compact&theme=tokyonight)
----
-
+- Actively building Java Full Stack projects.
+- Practicing coding and improving problem-solving skills.
+- Learning and exploring new technologies.
+- Sharing project work and progress on GitHub.
 
 ## 🤝 Connect With Me
 
