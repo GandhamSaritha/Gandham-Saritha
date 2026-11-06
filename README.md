@@ -81,7 +81,16 @@ https://github.com/GandhamSaritha/Employee-WorkSphere
 
 To begin my professional career as a Java Full Stack Developer, apply my technical knowledge to real-world projects, contribute to software development teams, and continuously grow as a developer.
 
+
 ---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GandhamSaritha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GandhamSaritha&layout=compact&theme=tokyonight)
+---
+
 
 ## 🤝 Connect With Me
 
